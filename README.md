@@ -41,7 +41,7 @@ All throughout your lab, you are expected to maintain a high quality of code (co
 #### Part 1. Description 50 pts
 * 20 pts	Compelling problem/scenario and clear description
 * 30 pts	Clear justification of the proposed problem w.r.t. the data structures, algorithms, and tasks to be covered in this lab
-* - 15 pts	Missing test cases
+* -15 pts	Missing test cases
 
 #### Part 2. Java solution 80 pts 
 * 15 pts	Code is deemed to be of high quality (see criteria above) 
@@ -49,7 +49,7 @@ All throughout your lab, you are expected to maintain a high quality of code (co
 * 20 pts	Code addresses the stated problem 
 * 15 pts	Code works 
 * 10 pts	Code is easy to use 
-* - 15 pts	Missing test cases
+* -15 pts	Missing test cases
 
 ## Due date
 May 8th at 11:59 pm
