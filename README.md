@@ -1,6 +1,6 @@
 # Catch-Up
 
-With this lab assignment, you are given an opportunity to demonstrate your skills in the concepts you have learned this semester. This lab is optional only if you have turned in all your lab work so far this semester and are in good standing to pass the class so far. In all other cases, you have to complete this lab. When in doubt, talk to your TA, Michelle Afravi.
+With this lab assignment, you are given an opportunity to demonstrate your skills in the concepts you have learned this semester. This lab is optional **only if you have turned in all your lab work so far this semester and are in good standing to pass the class so far**. In all other cases, you have to complete this lab. When in doubt, talk to your TA.
 
 
 ## What is the scenario?
